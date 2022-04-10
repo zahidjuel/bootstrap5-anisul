@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+.container-demo {
+    max-width: 1200px;
+    background-color: pink;
+    margin: 0 auto;
+}
+
+.link-style:hover {
+    text-decoration: underline;
+}
